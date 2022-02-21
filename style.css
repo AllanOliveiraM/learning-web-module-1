@@ -5,6 +5,7 @@ body {
   background: #222222;
   color: rgb(226, 224, 224);
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1.1rem;
 }
 
 body {
@@ -17,11 +18,11 @@ h2 {
 }
 
 h1 {
-  font-size: 1.4rem;
+  font-size: 1.8rem;
 }
 
 h2 {
-  font-size: 1rem;
+  font-size: 1.4rem;
 }
 
 header {
@@ -54,7 +55,7 @@ a:hover {
 }
 
 .card {
-  max-width: 500px;
+  max-width: 900px;
   width: 80vw;
   background: rgb(77, 23, 138);
   margin: 2rem 0;
@@ -82,5 +83,5 @@ a:hover {
 
 .explanation {
   text-align: center;
-  font-size: 0.8rem;
+  font-size: 1rem;
 }
